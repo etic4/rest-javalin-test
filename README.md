@@ -1,4 +1,4 @@
-#rest-javalin-test
+# rest-javalin-test
 API REST avec Javalin et jdbc. Fastidieux à coder.
 
 Une fois lancée, l'app écoute sur http://localhost:7000
