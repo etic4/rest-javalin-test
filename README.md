@@ -1,5 +1,5 @@
 # rest-javalin-test
-API REST avec Javalin et jdbc. Fastidieux à coder.
+API REST avec Javalin et jdbc. Base d'un autre clone de Pocket (à venir). 
 
 Une fois lancée, l'app écoute sur http://localhost:7000
 
